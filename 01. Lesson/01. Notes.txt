@@ -1,0 +1,6 @@
+1. JIRA nedir?
+2. reopen 
+feature / "feat: ";
+refactor /"refactor: change";
+bag / "bag: "
+3. 

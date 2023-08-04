@@ -1,0 +1,2 @@
+ORM araşdır.
+GUID, Path, Directory, StreamReader, StreamWrite, FileReader
